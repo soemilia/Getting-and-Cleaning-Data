@@ -21,4 +21,4 @@ This repository contains 3 main files:
 
 * run_analysis.R - This script is used to perform the analysis.
 * tidy.txt - This is the final output.  It contains a cleansed version of the sample data.
-* CodeBook.md - Contains the definitions of each of the columns in our generated tidy.txt file.
+* CodeBook.md - A code book that describes the variables.
