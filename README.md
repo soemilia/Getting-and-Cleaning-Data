@@ -20,5 +20,5 @@ The run_analysis.R script should be run on the [data](https://d396qusza40orc.clo
 This repository contains 3 main files:
 
 * `run_analysis.R` - This script is used to perform the analysis.
-* `tidy.txt` - This is the final output.  It contains a cleansed version of the sample data.
+* `FinalData.txt` - This is the final output.  It contains a cleansed version of the sample data.
 * `CodeBook.md` - A code book that describes the variables.
